@@ -17,12 +17,7 @@ public class Main {
 
     }
 
-    private static void clearConsole() {
-        // Печатаем 50 пустых строк для эффекта "очистки"
-        for (int i = 0; i < 50; i++) {
-            System.out.println();
-        }
-    }
+    
 
 
     /*int unicodeValue = 65; // Значение Unicode для символа 'A'
